@@ -3,6 +3,8 @@
 1. Đinh Gia Bảo: Trang Chủ, Trang Danh Sách Phòng, Trang Chi Tiết Phòng, Đăng Nhập, Đăng Kí
 2. Lương Trọng Quyền: Thông Tin Cá Nhân, Quản Lí Người Dùng, Quản Lí Vị Trí ( Không làm )
 
+# Link deploy on heroku: https://final-project-airbnb.herokuapp.com
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
