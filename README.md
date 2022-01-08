@@ -1,3 +1,8 @@
+# Phân Chia Công Việc
+
+1. Đinh Gia Bảo: Trang Chủ, Trang Danh Sách Phòng, Trang Chi Tiết Phòng, Đăng Nhập, Đăng Kí
+2. Lương Trọng Quyền: Thông Tin Cá Nhân, Quản Lí Người Dùng, Quản Lí Vị Trí ( Không làm )
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
